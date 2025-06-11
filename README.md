@@ -38,4 +38,4 @@ Setup Instructions
 - Update database credentials in config.php or wherever applicable.
 5. Run the application:
 Open your browser and go to:
-http://localhost/CanvasCrafted
+http://localhost/OnlineArtGallery
