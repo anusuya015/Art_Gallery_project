@@ -21,3 +21,21 @@ Features
 - Search and Filter – Easily find art by category, artist, or price.
 - Contact & Inquiry – Users can reach out to artists or the platform for queries.
 - User Authentication – Secure login and registration for artists and buyers.
+
+Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anusuya015/Online_Art_Gallery.git
+   cd Online_Art_Gallery
+2. Setup local server:
+- Use XAMPP/WAMP/LAMP to serve PHP files.
+- Place the project folder in the htdocs directory.
+3. Import the database:
+- Open phpMyAdmin.
+- Create database
+4. Configure database:
+- Update database credentials in config.php or wherever applicable.
+5. Run the application:
+Open your browser and go to:
+http://localhost/CanvasCrafted
